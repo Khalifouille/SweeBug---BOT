@@ -1,5 +1,5 @@
 # SweeBug---BOT
-- PRE-REQUIS : SA:MP ADDON - ETRE JOUEUR DE SANFIERRO RELOADED - ETRE PAUVRE
+→ PRE-REQUIS : SA:MP ADDON - ETRE JOUEUR DE SANFIERRO RELOADED - ETRE PAUVRE
 
 - SweeBug, un outils révolutionnaire qui aidera tous jeune entrepreneur à fructifié ses revenus et de passer de MERDE à BOGOSS avec BEAUCOUP d'argent.
 
