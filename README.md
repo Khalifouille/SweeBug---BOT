@@ -18,4 +18,4 @@
 - Rabais du temps d'attente entre chaque actions.
 - Retrait des images téléchargable au lancement du bot.
 
-MERCI A MES BETA TESTEURS : Darious gayming - Kleavon et Braxton
+MERCI A MES BETA TESTEURS : Darious gayming 
