@@ -8,8 +8,8 @@
 
 ○ 11-11-2020 à 22:27
 
-- Changement du nom du .exe
-- Ajout de la création du dossier Khalifouille dans "Mes documents"
+- Changement du nom du .exe.
+- Ajout de la création du dossier Khalifouille dans "Mes documents".
 
 ○ 12-11-2020 à 00:34
 
@@ -17,5 +17,14 @@
 - Passage du MooveMouse au SendKey.
 - Rabais du temps d'attente entre chaque actions.
 - Retrait des images téléchargable au lancement du bot.
+
+○ 12-11-2020 à 20:45
+
+- Ajout d'un login.
+- Ajout d'un message de bienvenue.
+- Ajout d'une fonctionnalité dite CUSTOM.
+  - Cette fonctionnalité vous permet donc de choisir un point sur le GPS, vous vous rendez tout simplement dessus et vous laisser par la suite le BOT s'occupé du reste.
+- Fix du bug : "Vous ne pouvez pas utiliser votre GPS en mission".
+- Ralongement du temps d'attente entre l'ouverture du chat et la rédaction du /gps.
 
 MERCI A MES BETA TESTEURS : Darious gayming 
