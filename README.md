@@ -27,8 +27,12 @@
 - Fix du bug : "Vous ne pouvez pas utiliser votre GPS en mission".
 - Ralongement du temps d'attente entre l'ouverture du chat et la rédaction du /gps.
 
-○ 14-02-2020 à 13:45
+○ 14-11-2020 à 13:45
 
 - Fermeture automatique du BOT aprés 45 minutes d'utilisation.
+
+○ 15-11-2020 à 1:10
+
+- Ajout d'une sonorité lors du lancement du BOT, ceci est une référence à notre chère ami TK78
 
 MERCI A MES BETA TESTEURS : Darious gayming 
