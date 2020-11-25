@@ -35,4 +35,8 @@
 
 - Ajout d'une sonorité lors du lancement du BOT, ceci est une référence à notre chère ami TK78
 
+○ 25-11-2020 à 19:58
+
+- Ajout d'une option pour donation, DONATE TA MERE
+
 MERCI A MES BETA TESTEURS : Darious gayming 
